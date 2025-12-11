@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Yifei Zhang
 
-**MSc Software Engineering** @ Carleton University
+**MSc Software Engineering**
 
 **Research Focus:** AI × Network Security  
 Building **trustworthy, robustic ML systems** for network. Including topics about Routing Optimization(DRL), Encryption Traffic Analysis and etc. Tackling dataset artifacts, shortcut learning, and real-world generalization challenges in IDS research.
