@@ -13,6 +13,6 @@ Building **trustworthy, robustic ML systems** for network. Including topics abou
 
 **Publications/Under Reviewed:** IEEE TAES, ACM CoNEXT, ICDCS 2025
 
-🎯 **Next:** PhD 2027 - Trustworthy AI for Cybersecurity
+🎯 **Next:** Trustworthy AI for Cybersecurity: Concept shift problems.
 
 📫 Open to collaborations on robust ML & network security
